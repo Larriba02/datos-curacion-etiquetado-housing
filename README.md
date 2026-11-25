@@ -93,6 +93,7 @@ Ejecuta los notebooks en orden: el primero genera el dataset que consume el segu
 homes_dataset.csv           dataset original
 homes_rules_compliant.csv   dataset que cumple todas las reglas
 datasets/                   dataset curado y los tres candidatos etiquetados
+memoria.pdf                 memoria del proyecto
 figures/                    gráficas extraídas de los notebooks
 ```
 
